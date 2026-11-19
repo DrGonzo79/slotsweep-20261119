@@ -1,0 +1,9 @@
+{
+  "disclaimer":"Fictional demo episodes and deterministic heuristics. No audio is uploaded and no ad is actually removed.",
+  "defaultCpm":24,
+  "episodes":[
+    {"id":"ep-184","title":"The Pricing Reset","published":"2023-06-14","downloads90":1840,"durationMin":47,"transcript":"Welcome back. This episode is brought to you by MealCrate. Use code JUNE30 for 30 percent off through June 30, 2023. Today we unpack subscription pricing. Later, visit our newsletter for the current field guide."},
+    {"id":"ep-122","title":"Build a Durable Audience","published":"2022-11-02","downloads90":1320,"durationMin":54,"transcript":"Before we start, a word from CloudDesk. Start a free trial at clouddesk dot example with promo code BUILD22. Offer expires December 2022. Then we talk with a community operator."},
+    {"id":"ep-091","title":"The Long Game","published":"2022-03-19","downloads90":890,"durationMin":61,"transcript":"This archived episode has no sponsor read. We discuss evergreen content, durable distribution, and the long game."}
+  ]
+}
